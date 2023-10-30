@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs de 2018<br>📚 Atualmente estou adquirindo conhecimentos em lógica de programação e aprofundando meu estudo em modelos de Machine Learning.<br>🎯 Objetivo :ingressar mercado de trabalho aréa de  dados <br>🎲  Curiosidades :Amo aprender coisas  novas , Amo  Dogs</p>
 
 ###
 
