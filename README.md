@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sejam bem Vindos</p>
+<p align="left"></p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs de 2018<br>📚 Atualmente estou adquirindo conhecimentos em lógica de programação e aprofundando meu estudo em modelos de Machine Learning.<br>🎯 Objetivo :ingressar mercado de trabalho aréa de  dados <br>🎲  Curiosidades :Amo aprender coisas  novas , Amo  Dogs</p>
+<p align="left">✨ Criando bugs de 2018<br>📚 Atualmente estou adquirindo conhecimentos em lógica de programação e aprofundando meu estudos em modelos de Machine Learning.<br>🎯 Objetivo :ingressar mercado de trabalho aréa de  dados <br>🎲  Curiosidades :Amo aprender coisas  novas , Amo  Dogs</p>
 
 ###
 
