@@ -8,13 +8,18 @@
 
 <h2 align="left">🚀 Profissional Apaixonada por Dados e Tecnologia
 
+
 🌐 Experiência Notável: Do auxiliar administrativo à gerente de peças em um ano, graças a análises de dados e planos de ação eficazes em uma renomada empresa automotiva.
+
 
 📊 Expertise Técnica: Habilidades sólidas em Power BI, MySQL, C++, Excel e Python, buscando transição para o setor de tecnologia como analista de dados.
 
-💡 Inovação e Estratégia: Busco constantemente inovações e estratégias para otimizar o desempenho do departamento de peças, destacando a empresa no mercado e alcançando resultados excepcionais.
+
+💡 Inovação e Estratégia: Busco constantemente maneiras inovadoras de abordar análises de dados, incorporando novas técnicas e tecnologias para melhorar a eficiência e a precisão
+
 
 🤝 Competências Comportamentais: Trabalho em equipe, comunicação eficaz, adaptabilidade, pensamento analítico e resolução de problemas são fundamentais para minha abordagem profissional.
+
 
 📚 Compromisso com o Crescimento: Comprometida em aprender e inovar continuamente, contribuindo positivamente para a equipe e a empresa.
 
