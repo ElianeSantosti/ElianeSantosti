@@ -6,7 +6,20 @@
 
 ###
 
-<h2 align="left">Sou uma profissional apaixonada pelo universo dos dados e da tecnologia, com experiência notável em impulsionar resultados. Iniciei minha carreira como auxiliar administrativo em uma renomada empresa automotiva e, em apenas um ano, fui promovida a gerente do setor de peças devido aos resultados excepcionais que entreguei por meio de análises de dados e planos de ação eficazes.<br><br>Minha paixão por dados e tecnologia me inspirou a buscar inovações e estratégias para otimizar o desempenho do departamento de peças, buscando destacar a empresa no mercado e alcançar resultados excepcionais. Atualmente, meu objetivo profissional é ingressar no setor de tecnologia como analista de dados, aproveitando minhas sólidas habilidades técnicas em áreas como Power BI, MySQL, C++, Excel e Python.<br><br>Além disso, minhas competências comportamentais incluem habilidades excepcionais de trabalho em equipe, comunicação eficaz, adaptabilidade a ambientes dinâmicos, pensamento analítico e resolução de problemas. Estou comprometida em continuar aprendendo e inovando, buscando constantemente maneiras de contribuir positivamente para a equipe e a empresa.<br>Contato: <br><br>Tel.:(11) 99695-6727<br>E-mail: elianesantos.ti@outlook.com</h2>
+<h2 align="left">🚀 Profissional Apaixonada por Dados e Tecnologia
+
+🌐 Experiência Notável: Do auxiliar administrativo à gerente de peças em um ano, graças a análises de dados e planos de ação eficazes em uma renomada empresa automotiva.
+
+📊 Expertise Técnica: Habilidades sólidas em Power BI, MySQL, C++, Excel e Python, buscando transição para o setor de tecnologia como analista de dados.
+
+💡 Inovação e Estratégia: Busco constantemente inovações e estratégias para otimizar o desempenho do departamento de peças, destacando a empresa no mercado e alcançando resultados excepcionais.
+
+🤝 Competências Comportamentais: Trabalho em equipe, comunicação eficaz, adaptabilidade, pensamento analítico e resolução de problemas são fundamentais para minha abordagem profissional.
+
+📚 Compromisso com o Crescimento: Comprometida em aprender e inovar continuamente, contribuindo positivamente para a equipe e a empresa.
+
+🔗 Conecte-se: Estou aberta a oportunidades e colaborações que envolvam dados, tecnologia e inovação. Vamos construir algo incrível juntos!
+.<br>Contato: <br><br>Tel.:(11) 99695-6727<br>E-mail: elianesantos.ti@outlook.com</h2>
 
 ###
 
